@@ -1,0 +1,2 @@
+Link to download Kaggle dataset of thousands of car and truck images :
+https://www.kaggle.com/datasets/ryanholbrook/car-or-truck
